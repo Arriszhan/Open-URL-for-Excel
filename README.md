@@ -1,8 +1,9 @@
-## Open URL for Excel
+## url-opener
 
 ### 实现功能
 
-打开Excel表格中所有的网址
+打开Excel表格中所有的网址  
+open all the urls in the excel file
 
 ### 支持格式
 
